@@ -1,3 +1,8 @@
+<p align="center">
+  <a>
+    <img src="https://github.com/Ambience-Studios/assets/blob/main/ambiencetransparent.png" alt="Bootstrap logo" width="200" height="200">
+  </a>
+<p>
 
 <h2 align="center">Ambience.css</h2>
 
@@ -6,7 +11,7 @@
 </p>
 
 <p align="center">
-  A lightweight CSS framework
+  A lightweight CSS framework to create a modern, sleek and intuitive frontend website.
   <br>
   <a href="#">Explore our Documentation ⪼</a>
   <br>
