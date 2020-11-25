@@ -13,7 +13,7 @@
   <br>
   <a href="https://github.com/Ambience-Studios/ambience.css/issues/new?assignees=&labels=&template=bug_report.md&title=Bug+Report">Report Bug</a>
   ◦
-  <a href="">Request Feature</a>
+  <a href="https://github.com/Ambience-Studios/ambience.css/issues/new?assignees=&labels=&template=feature_request.md&title=Feature+request">Request Feature</a>
 </p>
 
 
