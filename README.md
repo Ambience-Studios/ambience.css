@@ -26,7 +26,7 @@
 <p align="center">Ambience.css was created by two young front-end developers, seeking for a challenge. Our mission is to create a modern, sleek, intuitive and responsive front-end CSS framework.</p>
 
 ## Ambience.css development
-Our default branch is for development of Ambience.css 1. Previous versions of Ambience.css will be available on other branches.
+Our default branch is for development of Ambience.css. Previous versions of Ambience.css will be available on other branches.
 ## Table of contents
 - [Developing with Ambience.css](#developing-with-ambiencecss)
 - [Status](#status)
