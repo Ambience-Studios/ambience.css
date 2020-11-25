@@ -11,7 +11,7 @@
   <a href="">Explore our Documentation ⪼</a>
   <br>
   <br>
-  <a href="">Report Bug</a>
+  <a href="https://github.com/Ambience-Studios/ambience.css/issues/new?assignees=&labels=&template=bug_report.md&title=Bug+Report">Report Bug</a>
   ◦
   <a href="">Request Feature</a>
 </p>
