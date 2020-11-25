@@ -31,7 +31,57 @@
 <h4 align="center">About Ambience.css</h4>
 <p align="center">Ambience.css was created by two young front-end developers, seeking for a challenge. Our mission is to create a modern, sleek, intuitive and responsive front-end CSS framework.</p>
 
+<br>
 
+## Ambience.css development
+Our default branch is for development of Ambience.css 1. Previous versions of Ambience.css will be available on other branches.
 
+<br>
 
+## Table of contents
+- [Developing with Ambience.css](#developing-with-ambiencecss)
+- [Status](#status)
+- [What's included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [Versioning](#versioning)
+- [Creators](#creators)
+- [Copyright and license](#copyright-and-license)
 
+<br>
+
+## Developing with Ambience.css
+
+<br>
+
+## Status
+
+<br>
+
+## What's included
+
+<br>
+
+## Bugs and feature requests
+
+<br>
+
+## Documentation
+
+<br>
+
+## Contributing
+
+<br>
+
+## Versioning
+
+<br>
+
+## Creators
+
+<br>
+
+## Copyright and license
+Code copyright 2020 the [Ambience.css developers.](https://github.com/Ambience-Studios/ambience.css/graphs/contributors) Code is released under [MIT License](https://github.com/Ambience-Studios/ambience.css/blob/main/LICENSE)
