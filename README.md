@@ -10,15 +10,17 @@
   <img src="https://img.shields.io/github/license/Ambience-Studios/ambience.css">
 </p>
 
-<p align="center">  A lightweight CSS framework to create a modern, sleek and intuitive frontend website.
-
-  <a align="center" href="#">Explore our Documentation ⪼</a>
   
-  <a align="center" href="https://github.com/Ambience-Studios/ambience.css/issues/new?assignees=&labels=&template=bug_report.md&title=Bug+Report">Report Bug</a>
+<p align="center">
+  A lightweight CSS framework to create a modern, sleek and intuitive frontend website.
+  <br>
+  <a href="https://v5.getbootstrap.com/docs/5.0/"><strong>Explore our Documenation »</strong></a>
+  <br>
+  <br>
+  <a href="https://github.com/Ambience-Studios/ambience.css/issues/new?assignees=&labels=&template=bug_report.md&title=Bug+Repor">Report bug</a>
   ◦
-  <a align="center" href="https://github.com/Ambience-Studios/ambience.css/issues/new?assignees=&labels=&template=feature_request.md&title=Feature+request">Request Feature</a>
+  <a href="https://github.com/Ambience-Studios/ambience.css/issues/new?assignees=&labels=&template=feature_request.md&title=Feature+request">Request feature</a>
 </p>
-  
 
 
 
