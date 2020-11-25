@@ -4,7 +4,7 @@
   </a>
 <p>
 
-<h2 align="center">Ambience.css</h2>
+<h3 align="center">Ambience.css</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/license/Ambience-Studios/ambience.css">
