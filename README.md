@@ -8,7 +8,7 @@
 <p align="center">
   A lightweight CSS framework
   <br>
-  <a href="">Explore our Documentation ⪼</a>
+  <a href="#">Explore our Documentation ⪼</a>
   <br>
   <br>
   <a href="https://github.com/Ambience-Studios/ambience.css/issues/new?assignees=&labels=&template=bug_report.md&title=Bug+Report">Report Bug</a>
