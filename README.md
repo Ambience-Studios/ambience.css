@@ -52,34 +52,47 @@ Our default branch is for development of Ambience.css 1. Previous versions of Am
 <br>
 
 ## Developing with Ambience.css
+Coming soon!
 
 <br>
 
 ## Status
+Coming soon!
 
 <br>
 
 ## What's included
+Coming soon!
 
 <br>
 
 ## Bugs and feature requests
+Do you have a bug or feature request for Ambience.css? If your problem or idea has not been addressed yet, [please open a new issue.](https://github.com/Ambience-Studios/ambience.css/issues/new/choose)
 
 <br>
 
 ## Documentation
+Coming soon!
 
 <br>
 
 ## Contributing
+Coming soon!
 
 <br>
 
 ## Versioning
+Coming soon!
 
 <br>
 
 ## Creators
+
+**Eli B**
+- [https://cordial.ambience.studio](https://cordial.ambience.studio)
+- [https://twitter.com/LCordial_](https://twitter.com/LCordial_)
+
+**Elijah R**
 
 <br>
 
