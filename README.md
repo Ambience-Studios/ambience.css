@@ -88,11 +88,13 @@ Coming soon!
 
 ## Creators
 
-**Eli B**
-- [https://cordial.ambience.studio](https://cordial.ambience.studio)
-- [https://twitter.com/LCordial_](https://twitter.com/LCordial_)
+<h4>Eli B</h4>
 
-**Elijah R**
+- https://cordial.ambience.studio
+- https://twitter.com/LCordial_
+
+
+<h4>Elijah R</h4>
 
 <br>
 
