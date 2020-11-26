@@ -1,0 +1,30 @@
+{
+  "name": "ambience.css",
+  "version": "0.0.1",
+  "description": "A lightweight css framework",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ambience-Studios/ambience.css.git"
+  },
+  "author": "Eli B, Elijah R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ambience-Studios/ambience.css/issues"
+  },
+  "homepage": "https://github.com/Ambience-Studios/ambience.css#readme",
+  "dependencies": {
+    "normalize-scss": "^7.0.1",
+    "npm": "^6.14.9",
+    "sass": "^1.29.0"
+  },
+  "devDependencies": {
+    "prettier": "2.2.0"
+  }
+}
