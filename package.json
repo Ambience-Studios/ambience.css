@@ -6,9 +6,7 @@
   "directories": {
     "doc": "docs"
   },
-  "scripts": {
-    
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ambience-Studios/ambience.css.git"
@@ -21,7 +19,6 @@
   "homepage": "https://github.com/Ambience-Studios/ambience.css#readme",
   "dependencies": {
     "normalize-scss": "^7.0.1",
-    "npm": "^6.14.9",
     "sass": "^1.29.0"
   },
   "devDependencies": {
