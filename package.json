@@ -1,8 +1,17 @@
 {
   "name": "ambience.css",
   "version": "0.0.1",
+  "version_short": "0.0.1",
   "description": "A lightweight css framework",
   "main": "index.js",
+  "keywords": [
+    "css",
+    "sass",
+    "lightweight",
+    "front-end",
+    "framework",
+    "web"
+  ],
   "directories": {
     "doc": "docs"
   },
