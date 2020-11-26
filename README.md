@@ -14,7 +14,7 @@
 <p align="center">
   A lightweight CSS framework to create a modern, sleek and intuitive frontend website.
   <br>
-  <a href="https://v5.getbootstrap.com/docs/5.0/"><strong>Explore our Documenation »</strong></a>
+  <a href="#"><strong>Explore our Documenation »</strong></a>
   <br>
   <br>
   <a href="https://github.com/Ambience-Studios/ambience.css/issues/new?assignees=&labels=&template=bug_report.md&title=Bug+Repor">Report bug</a>
