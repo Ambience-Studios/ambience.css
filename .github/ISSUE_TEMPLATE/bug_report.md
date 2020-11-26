@@ -1,18 +1,18 @@
 ---
 name: Bug report
-about: Create a report to help us improve out Framework
+about: Create a report to help us improve our Framework
 title: Bug Report
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
+**Description of bug**
 A clear and concise description of what the bug is.
 
 **FIRST CHECK IF THIS ISSUE ALREADY EXISTS**
 
-**To Reproduce**
+**How to Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
@@ -23,14 +23,14 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots to help explain your problem and others trying to help.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
+**Smartphone (please complete the following information if applicable):**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]

@@ -22,8 +22,7 @@
   <a href="https://github.com/Ambience-Studios/ambience.css/issues/new?assignees=&labels=&template=feature_request.md&title=Feature+request">Request feature</a>
 </p>
 
-
-
+<br>
 
 <h4 align="center">About Ambience.css</h4>
 <p align="center">Ambience.css was created by two young front-end developers, seeking for a challenge. Our mission is to create a modern, sleek, intuitive and responsive front-end CSS framework.</p>
@@ -42,7 +41,9 @@ Our default branch is for development of Ambience.css. Previous versions of Ambi
 - [Copyright and license](#copyright-and-license)
 
 ## Developing with Ambience.css
-Coming soon!
+- Clone the repo: `https://github.com/Ambience-Studios/ambience.css.git`
+- Install with npm: `Coming soon`
+- Install with yarn: `Coming soon`
 
 ## Status
 Coming soon!
@@ -50,7 +51,6 @@ Coming soon!
 
 ## What's included
 Coming soon!
-
 
 ## Bugs and feature requests
 Do you have a bug or feature request for Ambience.css? If your problem or idea has not been addressed yet, [please open a new issue.](https://github.com/Ambience-Studios/ambience.css/issues/new/choose)
