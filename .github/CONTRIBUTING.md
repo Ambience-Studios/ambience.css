@@ -36,13 +36,13 @@ A bug is a problem caused by the code in the repository. Good bug reports are ex
 1. Validate your HTML to ensure your problem is not caused by an error in your own code.
 2. Use the Github issue search - To check if the issue has already been reported.
 3. Check if the issue has been fixed - try to reproduce it using the latest `main` branch in the repository.
-4. Isolate the problem - Isolate he error to one area of your code.
+4. Isolate the problem - Isolate the error to one area of your code.
 
 A good bug report shouldn't leave others needing to ask for more information. Please try to be as detailed as possible in your report. Follow the [issue templates](https://github.com/Ambience-Studios/ambience.css/issues/new/choose).
 
 ## Feature requests
 
-All feature requests are welcome. But take a momennt to sit down and think. To find out whether your idea fits with the scope and aims of the project. Its up to **you** to make a strong case to convince the project's developers of the merits of this feature.
+All feature requests are welcome. But take a moment to sit down and think, to find out if your idea fits with the scope and aims of this project. Its up to **you** to make a strong case to convince the project's developers of the merits of this feature.
 
 ## Pull requests
 
