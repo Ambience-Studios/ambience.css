@@ -66,7 +66,7 @@ Coming soon!
 
 ## Contributing
 
-Coming soon!
+Please read through our [Contribution guidelines](https://github.com/Ambience-Studios/ambience.css/blob/main/.github/CONTRIBUTING.md). Included are directions for opening issues and more.
 
 ## Versioning
 
@@ -83,4 +83,4 @@ Coming soon!
 
 ## Copyright and license
 
-Code copyright 2020 the [Ambience.css developers.](https://github.com/Ambience-Studios/ambience.css/graphs/contributors) Code is released under [MIT License](https://github.com/Ambience-Studios/ambience.css/blob/main/LICENSE)
+Code copyright 2020 the [Ambience Studios](https://github.com/Ambience-Studios/ambience.css/graphs/contributors) Code is released under [MIT License](https://github.com/Ambience-Studios/ambience.css/blob/main/LICENSE)

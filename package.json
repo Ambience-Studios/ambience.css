@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "version_short": "0.0.1",
   "description": "A lightweight css framework",
-  "main": "index.js",
+  "main": "",
   "keywords": [
     "css",
     "sass",
@@ -15,7 +15,9 @@
   "directories": {
     "doc": "docs"
   },
-  "scripts": {},
+  "scripts": {
+    
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ambience-Studios/ambience.css.git"
