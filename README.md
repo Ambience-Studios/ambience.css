@@ -38,6 +38,7 @@ Our default branch is for development of Ambience.css. Previous versions of Ambi
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
+- [Community](#community)
 - [Versioning](#versioning)
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
@@ -66,11 +67,19 @@ Coming soon!
 
 ## Contributing
 
-Please read through our [Contribution guidelines](https://github.com/Ambience-Studios/ambience.css/blob/main/.github/CONTRIBUTING.md). Included are directions for opening issues and more.
+Contributing to the development of Ambience.css is extremely helpful. Please read through our [Contribution guidelines](https://github.com/Ambience-Studios/ambience.css/blob/main/.github/CONTRIBUTING.md). Included are directions for opening issues and more.
+
+## Community
+
+Get updates on Ambience.css's development and chat with community members and project developers.
+
+* Join the [Ambience Studios Discord server](https://discord.gg/aDfnRkXZhC)
 
 ## Versioning
 
-Coming soon!
+For transparency into our releases. Ambience.css is maitained under [the Semantic Versioning guidelines](https://semver.org/). We are not robots, so we can screw up. But we try to adhere to those rules whenever possible.
+
+Please go [to our Releases section of our Github project](https://github.com/Ambience-Studios/ambience.css/releases) for more detailed changes. Or go to our [changelog](https://github.com/Ambience-Studios/ambience.css/blob/main/CHANGELOG.md) section.
 
 ## Creators
 
@@ -83,4 +92,4 @@ Coming soon!
 
 ## Copyright and license
 
-Code copyright 2020 the [Ambience Studios](https://github.com/Ambience-Studios/ambience.css/graphs/contributors) Code is released under [MIT License](https://github.com/Ambience-Studios/ambience.css/blob/main/LICENSE)
+Code copyright 2020 [Ambience Studios](https://github.com/Ambience-Studios/ambience.css/graphs/contributors) Code is released under [MIT License](https://github.com/Ambience-Studios/ambience.css/blob/main/LICENSE)
