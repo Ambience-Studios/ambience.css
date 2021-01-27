@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap");
 .label {
   display: inline-block;
   padding: 7px 12px;
@@ -84,6 +85,17 @@
 }
 .label.__error.--noborder {
   border: none;
+}
+
+.code {
+  display: inline-block;
+  font-family: "Roboto Mono", monospace;
+  background-color: #dfdfdf;
+  padding: 3px 3px;
+  border-radius: 4px;
+}
+.code.__nobackground {
+  background-color: rgba(255, 255, 255, 0);
 }
 
 /*# sourceMappingURL=ambience.css.map */
