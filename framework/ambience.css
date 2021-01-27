@@ -15,11 +15,23 @@
 .text.--bold {
   font-weight: bold;
 }
+.text.--decoration-none {
+  text-decoration: none;
+}
 .text.--bolder {
   font-weight: bolder;
 }
 .text.--light {
   font-weight: 100;
+}
+.text.--lowercase {
+  text-transform: lowercase;
+}
+.text.--uppercase {
+  text-transform: uppercase;
+}
+.text.--capitalize {
+  text-transform: capitalize;
 }
 .text.--center {
   text-align: center;
@@ -29,6 +41,13 @@
 }
 .text.--left {
   text-align: left;
+}
+.text.--text-wrap {
+  word-wrap: break-word;
+}
+.text.--text-break {
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 /*# sourceMappingURL=ambience.css.map */

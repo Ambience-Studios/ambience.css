@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
-
 .text {
     font-family: 'Roboto', sans-serif;
 
@@ -11,15 +9,19 @@
 
     // Text style / decoration
     &.--italic {
-        @include italic;
+        font-style: italic;
     }
 
     &.--underline {
-        @include underline;
+        @include decoration(underline);
     }
 
     &.--bold {
         @include font-weight(bold);
+    }
+
+    &.--decoration-none {
+        @include decoration(none);
     }
 
     &.--bolder {
@@ -28,6 +30,19 @@
 
     &.--light {
         @include font-weight(100);
+    }
+
+    //Text transform
+    &.--lowercase {
+        @include text-transform(lowercase);
+    }
+
+    &.--uppercase {
+        @include text-transform(uppercase);
+    }
+
+    &.--capitalize {
+        @include text-transform(capitalize);
     }
 
     // Text positioning
@@ -41,5 +56,15 @@
 
     &.--left {
         @include text-align(left);
+    }
+
+    // Text wrapping
+    &.--text-wrap {
+        word-wrap: break-word;
+    }
+
+    &.--text-break {
+        overflow-wrap: break-word;
+        word-break: break-word;
     }
 }
