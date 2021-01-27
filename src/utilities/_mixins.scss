@@ -1,0 +1,7 @@
+@mixin italic() {
+    font-style: italic;
+}
+
+@mixin text-align($positon) {
+    text-align: $positon;
+}
