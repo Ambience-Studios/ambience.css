@@ -1,3 +1,17 @@
-@import './normalize/normalize.css';
-@import './layers';
-@import './colours';
+// This file contains the imports to link all files included in ambience.css. Target this file if you wish to compile the project.
+// Use 'sass --watch .\src\main.scss .\framework\ambience.css' to compile any changes saved.
+// Remove the --watch flag to compile only once 'sass .\src\main.scss .\framework\ambience.css'.
+// If your styles are not working ensure that you have added the .scss to the list below. Also ensure that any new files to be used as an import contains an _
+// at the start of the name. This tells SASS it will be used as an import.
+
+
+// Base
+@import 'base/typography';
+
+// Modules
+@import 'modules/buttons';
+
+// Utilities
+@import 'utilities/variables';
+@import 'utilities/functions';
+@import 'utilities/mixins';
