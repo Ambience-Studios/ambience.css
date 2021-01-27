@@ -5,3 +5,11 @@
 @mixin text-align($positon) {
     text-align: $positon;
 }
+
+@mixin border-radius($size){
+    border-radius: $size;
+}
+
+@mixin --rounded{
+    border-radius: 3px;
+}
