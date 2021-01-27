@@ -3,15 +3,34 @@
 .text {
     font-family: 'Roboto', sans-serif;
 
+    // Speciffic element styles
     &.__h1 {
         padding: 10px;
         margin: 0;
     }
 
+    // Text style / decoration
     &.--italic {
         @include italic;
     }
 
+    &.--underline {
+        @include underline;
+    }
+
+    &.--bold {
+        @include font-weight(bold);
+    }
+
+    &.--bolder {
+        @include font-weight(bolder);
+    }
+
+    &.--light {
+        @include font-weight(100);
+    }
+
+    // Text positioning
     &.--center {
         @include text-align(center);
     }

@@ -1,5 +1,14 @@
+// Text styles
 @mixin italic() {
     font-style: italic;
+}
+
+@mixin underline() {
+    text-decoration: underline;
+}
+
+@mixin font-weight($weight) {
+    font-weight: $weight;
 }
 
 @mixin text-align($positon) {
