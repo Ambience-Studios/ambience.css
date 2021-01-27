@@ -1,12 +1,6 @@
 .text {
     font-family: 'Roboto', sans-serif;
 
-    // Speciffic element styles
-    &.__h1 {
-        padding: 10px;
-        margin: 0;
-    }
-
     // Text style / decoration
     &.--italic {
         font-style: italic;
