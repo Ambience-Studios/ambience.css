@@ -1,14 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
-* {
+.text {
   font-family: "Roboto", sans-serif;
 }
-
+.text.__h1 {
+  padding: 10px;
+  margin: 0;
+}
 .text.--italic {
   font-style: italic;
-  color: red;
 }
 .text.--center {
   text-align: center;
+}
+.text.--right {
+  text-align: right;
+}
+.text.--left {
+  text-align: left;
 }
 
 /*# sourceMappingURL=ambience.css.map */

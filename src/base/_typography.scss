@@ -1,19 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
-* {
-    font-family: 'Roboto', sans-serif;
-}
-
 .text {
-    .__ {
-        
+    font-family: 'Roboto', sans-serif;
+
+    &.__h1 {
+        padding: 10px;
+        margin: 0;
     }
 
     &.--italic {
         @include italic;
-        color: red;
     }
+
     &.--center {
         @include text-align(center);
+    }
+
+    &.--right {
+        @include text-align(right);
+    }
+
+    &.--left {
+        @include text-align(left);
     }
 }
