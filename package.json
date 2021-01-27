@@ -28,8 +28,7 @@
   "homepage": "https://github.com/Ambience-Studios/ambience.css#readme",
   "dependencies": {
     "normalize-scss": "^7.0.1",
-    "normalize.css": "^8.0.1",
-    "sass": "^1.29.0"
+    "normalize.css": "^8.0.1"
   },
   "devDependencies": {
     "prettier": "2.2.0"
