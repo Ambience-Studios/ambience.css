@@ -1,3 +1,8 @@
+// Labels || Each label includes modifiers, rounded, superrounded, pill and noborder
+// Each modifier increases the border-radius, meaning that it becomes more rounded.
+// Secondary modifier is only currently available on the default label.
+// No border modifier allows the user to remove the border of a label.
+
 .label{
 
     display: inline-block;
