@@ -51,7 +51,9 @@ Our default branch is for development of Ambience.css. Previous versions of Ambi
 
 ## Status
 
-Coming soon!
+<p>
+  <img src="https://img.shields.io/github/issues/Ambience-Studios/ambience.css">
+</p>
 
 ## What's included
 
@@ -71,9 +73,12 @@ Contributing to the development of Ambience.css is extremely helpful. Please rea
 
 ## Community
 
-Get updates on Ambience.css's development and chat with community members and project developers.
+Get updates on Ambience.css's development and chat with community members and project developers. <p>
+  <img src="https://img.shields.io/discord/744717191668039690.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)">
+</p>
 
 * Join the [Ambience Studios Discord server](https://discord.gg/aDfnRkXZhC)
+
 
 ## Versioning
 
