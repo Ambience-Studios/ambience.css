@@ -1,9 +1,10 @@
 @mixin italic() {
-    font-style: italic;
+  font-style: italic;
 }
 
 @mixin text-align($positon) {
-    text-align: $positon;
+  
+      text-align: $positon;
 }
 
 @mixin border-radius($size){
@@ -12,4 +13,7 @@
 
 @mixin --rounded{
     border-radius: 3px;
+}
+
+  text-align: $positon;
 }
