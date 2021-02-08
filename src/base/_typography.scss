@@ -4,7 +4,15 @@
   font-family: "Roboto", sans-serif;
 }
 
-.text {
+    &.--italic {
+        @include italic;
+        color: red;
+    }
+    &.--center {
+        @include text-align(center);
+    }
+}
+
   &.--italic {
     @include italic;
     color: red;
@@ -13,3 +21,5 @@
     @include text-align(center);
   }
 }
+
+.text {

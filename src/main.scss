@@ -10,7 +10,15 @@
 @import "utilities/functions";
 
 // Base
+@import 'base/typography';
+
+// Modules
+@import 'modules/buttons';
+@import 'modules/labels';
+@import 'modules/code';
+
 @import "base/typography";
 
 // Modules
 @import "modules/buttons";
+
