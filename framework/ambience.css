@@ -1,4 +1,21 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("//cdn.jsdelivr.net/npm/hack-font@3/build/web/hack-subset.cs");
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.text.--italic {
+  font-style: italic;
+  color: red;
+}
+.text.--center {
+  text-align: center;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
 .label {
   display: inline-block;
   padding: 7px 12px;
@@ -89,13 +106,12 @@
 
 .code {
   display: inline-block;
-  font-family: "Roboto Mono", monospace;
-  background-color: #dfdfdf;
-  padding: 3px 3px;
-  border-radius: 4px;
+  font-family: Hack, monospace;
 }
-.code.__nobackground {
-  background-color: rgba(255, 255, 255, 0);
+.code.--background {
+  background-color: #cfcfcf;
+  padding: 0.3em;
+  border-radius: 5px;
 }
 
 /*# sourceMappingURL=ambience.css.map */

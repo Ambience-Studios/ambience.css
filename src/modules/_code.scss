@@ -1,16 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap'); // Importing font used for code
+@import url('//cdn.jsdelivr.net/npm/hack-font@3/build/web/hack-subset.cs'); // Importing font used for code
 
 // Code || Still in progress, design being discussed
 // Modifiers include no background, allowing the use to remove the background for just the font.
 
 .code{
     display: inline-block;
-    font-family: 'Roboto Mono', monospace;
-    background-color: rgb(223, 223, 223);
-    padding: 3px 3px;
-    border-radius: 4px;
-    
-    &.__nobackground{
-        background-color: rgba(255, 255, 255, 0);
+    font-family: Hack, monospace;
+    &.--background{
+        background-color: rgb(207, 207, 207);
+        padding: 0.3em;
+        border-radius: 5px;
     }
 }

@@ -3,6 +3,10 @@
 // Secondary modifier is only currently available on the default label.
 // No border modifier allows the user to remove the border of a label.
 
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
 .label{
 
     display: inline-block;
