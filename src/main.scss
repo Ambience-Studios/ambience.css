@@ -5,12 +5,12 @@
 // at the start of the name. This tells SASS it will be used as an import.
 
 // Utilities
-@import 'utilities/variables';
-@import 'utilities/mixins';
-@import 'utilities/functions';
+@import "utilities/variables";
+@import "utilities/mixins";
+@import "utilities/functions";
 
 // Base
-@import 'base/typography';
+@import "base/typography";
 
 // Modules
-@import 'modules/buttons';
+@import "modules/buttons";

@@ -74,11 +74,11 @@ Contributing to the development of Ambience.css is extremely helpful. Please rea
 ## Community
 
 Get updates on Ambience.css's development and chat with community members and project developers. <p>
-  <img src="https://img.shields.io/discord/744717191668039690.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)">
+<img src="https://img.shields.io/discord/744717191668039690.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)">
+
 </p>
 
-* Join the [Ambience Studios Discord server](https://discord.gg/aDfnRkXZhC)
-
+- Join the [Ambience Studios Discord server](https://discord.gg/aDfnRkXZhC)
 
 ## Versioning
 
