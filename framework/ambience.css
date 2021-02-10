@@ -2,46 +2,46 @@
 .text {
   font-family: "Roboto", sans-serif;
 }
-.text.--italic {
+.text.italic {
   font-style: italic;
 }
-.text.--underline {
+.text.underline {
   text-decoration: underline;
 }
-.text.--bold {
+.text.bold {
   font-weight: bold;
 }
-.text.--decoration-none {
+.text.decoration-none {
   text-decoration: none;
 }
-.text.--bolder {
+.text.bolder {
   font-weight: bolder;
 }
-.text.--light {
+.text.light {
   font-weight: 100;
 }
-.text.--lowercase {
+.text.lowercase {
   text-transform: lowercase;
 }
-.text.--uppercase {
+.text.uppercase {
   text-transform: uppercase;
 }
-.text.--capitalize {
+.text.capitalize {
   text-transform: capitalize;
 }
-.text.--center {
+.text.center {
   text-align: center;
 }
-.text.--right {
+.text.right {
   text-align: right;
 }
-.text.--left {
+.text.left {
   text-align: left;
 }
-.text.--text-wrap {
+.text.text-wrap {
   word-wrap: break-word;
 }
-.text.--text-break {
+.text.text-break {
   overflow-wrap: break-word;
   word-break: break-word;
 }

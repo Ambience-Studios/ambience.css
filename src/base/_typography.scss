@@ -2,62 +2,62 @@
     font-family: 'Roboto', sans-serif;
 
     // Text style / decoration
-    &.--italic {
+    &.italic {
         font-style: italic;
     }
 
-    &.--underline {
+    &.underline {
         @include decoration(underline);
     }
 
-    &.--bold {
+    &.bold {
         @include font-weight(bold);
     }
 
-    &.--decoration-none {
+    &.decoration-none {
         @include decoration(none);
     }
 
-    &.--bolder {
+    &.bolder {
         @include font-weight(bolder);
     }
 
-    &.--light {
+    &.light {
         @include font-weight(100);
     }
 
     //Text transform
-    &.--lowercase {
+    &.lowercase {
         @include text-transform(lowercase);
     }
 
-    &.--uppercase {
+    &.uppercase {
         @include text-transform(uppercase);
     }
 
-    &.--capitalize {
+    &.capitalize {
         @include text-transform(capitalize);
     }
 
     // Text positioning
-    &.--center {
+    &.center {
         @include text-align(center);
     }
 
-    &.--right {
+    &.right {
         @include text-align(right);
     }
 
-    &.--left {
+    &.left {
         @include text-align(left);
     }
 
     // Text wrapping
-    &.--text-wrap {
+    &.text-wrap {
         word-wrap: break-word;
     }
 
-    &.--text-break {
+    &.text-break {
         overflow-wrap: break-word;
         word-break: break-word;
     }
