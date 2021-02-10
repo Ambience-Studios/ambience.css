@@ -100,5 +100,11 @@
   padding: 0.3em;
   border-radius: 5px;
 }
+.code.--superhackerman {
+  background-color: black;
+  padding: 0.3em;
+  border-radius: 5px;
+  color: green;
+}
 
 /*# sourceMappingURL=ambience.css.map */
