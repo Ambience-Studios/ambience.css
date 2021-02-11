@@ -1,3 +1,6 @@
+
+// Text styles
+
 @mixin italic() {
   font-style: italic;
 }
@@ -14,3 +17,14 @@
 @mixin --rounded{
     border-radius: 3px;
 }
+@mixin decoration($decoration) {
+    text-decoration: $decoration;
+}
+
+@mixin font-weight($weight) {
+    font-weight: $weight;
+}
+
+
+@mixin text-transform($trasform) {
+    text-transform: $trasform;
