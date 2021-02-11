@@ -55,87 +55,87 @@
   display: inline-block;
   padding: 7px 12px;
 }
-.label.__default {
+.label.default {
   border: 1px solid black;
   background-color: white;
 }
-.label.__default.--secondary {
+.label.default.secondary {
   padding: 3px 6px;
 }
-.label.__default.--rounded {
+.label.default.rounded {
   border-radius: 3px;
 }
-.label.__default.--superrounded {
+.label.default.superrounded {
   border-radius: 6px;
 }
-.label.__default.--pill {
+.label.default.pill {
   border-radius: 15px;
 }
-.label.__default.--noborder {
+.label.default.noborder {
   border: none;
 }
-.label.__primary {
+.label.primary {
   border: 1px solid black;
   background-color: #2999f5;
 }
-.label.__primary.--rounded {
+.label.primary.rounded {
   border-radius: 3px;
 }
-.label.__primary.--superrounded {
+.label.primary.superrounded {
   border-radius: 6px;
 }
-.label.__primary.--pill {
+.label.primary.pill {
   border-radius: 15px;
 }
-.label.__primary.--noborder {
+.label.primary.noborder {
   border: none;
 }
-.label.__success {
+.label.success {
   border: 1px solid black;
   background-color: #3fcc14;
 }
-.label.__success.--rounded {
+.label.success.rounded {
   border-radius: 3px;
 }
-.label.__success.--superrounded {
+.label.success.superrounded {
   border-radius: 6px;
 }
-.label.__success.--pill {
+.label.success.pill {
   border-radius: 15px;
 }
-.label.__success.--noborder {
+.label.success.noborder {
   border: none;
 }
-.label.__warning {
+.label.warning {
   border: 1px solid black;
   background-color: #e6904a;
 }
-.label.__warning.--rounded {
+.label.warning.rounded {
   border-radius: 3px;
 }
-.label.__warning.--superrounded {
+.label.warning.superrounded {
   border-radius: 6px;
 }
-.label.__warning.--pill {
+.label.warning.pill {
   border-radius: 15px;
 }
-.label.__warning.--noborder {
+.label.warning.noborder {
   border: none;
 }
-.label.__error {
+.label.error {
   border: 1px solid black;
   background-color: #d43b3b;
 }
-.label.__error.--rounded {
+.label.error.rounded {
   border-radius: 3px;
 }
-.label.__error.--superrounded {
+.label.error.superrounded {
   border-radius: 6px;
 }
-.label.__error.--pill {
+.label.error.pill {
   border-radius: 15px;
 }
-.label.__error.--noborder {
+.label.error.noborder {
   border: none;
 }
 
@@ -143,12 +143,12 @@
   display: inline-block;
   font-family: Hack, monospace;
 }
-.code.--background {
+.code.background {
   background-color: #cfcfcf;
   padding: 0.3em;
   border-radius: 5px;
 }
-.code.--superhackerman {
+.code.superhackerman {
   background-color: black;
   padding: 0.3em;
   border-radius: 5px;
