@@ -1,3 +1,124 @@
+@import url("//cdn.jsdelivr.net/npm/hack-font@3/build/web/hack-subset.cs");
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.label {
+  display: inline-block;
+  padding: 7px 12px;
+}
+.label.__default {
+  border: 1px solid black;
+  background-color: white;
+}
+.label.__default.--secondary {
+  padding: 3px 6px;
+}
+.label.__default.--rounded {
+  border-radius: 3px;
+}
+.label.__default.--superrounded {
+  border-radius: 6px;
+}
+.label.__default.--pill {
+  border-radius: 15px;
+}
+.label.__default.--noborder {
+  border: none;
+}
+.label.__primary {
+  border: 1px solid black;
+  background-color: #2999f5;
+}
+.label.__primary.--rounded {
+  border-radius: 3px;
+}
+.label.__primary.--superrounded {
+  border-radius: 6px;
+}
+.label.__primary.--pill {
+  border-radius: 15px;
+}
+.label.__primary.--noborder {
+  border: none;
+}
+.label.__success {
+  border: 1px solid black;
+  background-color: #3fcc14;
+}
+.label.__success.--rounded {
+  border-radius: 3px;
+}
+.label.__success.--superrounded {
+  border-radius: 6px;
+}
+.label.__success.--pill {
+  border-radius: 15px;
+}
+.label.__success.--noborder {
+  border: none;
+}
+.label.__warning {
+  border: 1px solid black;
+  background-color: #e6904a;
+}
+.label.__warning.--rounded {
+  border-radius: 3px;
+}
+.label.__warning.--superrounded {
+  border-radius: 6px;
+}
+.label.__warning.--pill {
+  border-radius: 15px;
+}
+.label.__warning.--noborder {
+  border: none;
+}
+.label.__error {
+  border: 1px solid black;
+  background-color: #d43b3b;
+}
+.label.__error.--rounded {
+  border-radius: 3px;
+}
+.label.__error.--superrounded {
+  border-radius: 6px;
+}
+.label.__error.--pill {
+  border-radius: 15px;
+}
+.label.__error.--noborder {
+  border: none;
+}
+
+.code {
+  display: inline-block;
+  font-family: Hack, monospace;
+}
+.code.--background {
+  background-color: #cfcfcf;
+  padding: 0.3em;
+  border-radius: 5px;
+}
+.code.--superhackerman {
+  background-color: black;
+  padding: 0.3em;
+  border-radius: 5px;
+  color: green;
+}
+.text.right {
+  text-align: right;
+}
+.text.left {
+  text-align: left;
+}
+.text.text-wrap {
+  word-wrap: break-word;
+}
+.text.text-break {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
 .text {
   font-family: "Roboto", sans-serif;
@@ -31,19 +152,6 @@
 }
 .text.center {
   text-align: center;
-}
-.text.right {
-  text-align: right;
-}
-.text.left {
-  text-align: left;
-}
-.text.text-wrap {
-  word-wrap: break-word;
-}
-.text.text-break {
-  overflow-wrap: break-word;
-  word-break: break-word;
 }
 
 /*# sourceMappingURL=ambience.css.map */

@@ -8,4 +8,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
-- Nothing yet
+### 09/February/2021
+- Dependencies
+    - Normalize scss ^7.0.1
+    - Sass ^1.32.5
+    
+- Dev Dependecies
+    - Prettier 2.2.0
+
+- Labels <br />
+Labels are used to emphasis a specific aspect of an project, image, article or more. They are a standalone label, with no connection towards an image. 
+    - Default
+      - Modifiers: Rounded, Superrounded, Pill, No border, Secondary
+    - Primary
+      - Modifiers: Rounded, Superrounded, Pill, No border
+    - Warning
+      - Modifiers: Rounded, Superrounded, Pill, No border
+    - Error
+      - Modifiers: Rounded, Superrounded, Pill, No border
+    - Success
+      - Modifiers: Rounded, Superrounded, Pill, No border
+- Code <br />
+Code is used to specify if text is used to represent code that would and can be used by the user. Using the superhacker font: `hack`
+    - Add background modifier allows the user to add a light gray-ish background to the text. Adding a more distinct difference between normal text and code.

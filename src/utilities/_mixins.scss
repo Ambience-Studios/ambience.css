@@ -1,4 +1,22 @@
+
 // Text styles
+
+@mixin italic() {
+  font-style: italic;
+}
+
+@mixin text-align($positon) {
+  
+      text-align: $positon;
+}
+
+@mixin border-radius($size){
+    border-radius: $size;
+}
+
+@mixin --rounded{
+    border-radius: 3px;
+}
 @mixin decoration($decoration) {
     text-decoration: $decoration;
 }
@@ -7,10 +25,6 @@
     font-weight: $weight;
 }
 
-@mixin text-align($positon) {
-    text-align: $positon;
-}
 
 @mixin text-transform($trasform) {
     text-transform: $trasform;
-}
