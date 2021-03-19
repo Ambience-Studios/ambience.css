@@ -1,65 +1,64 @@
-
 .text {
-    font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 
-    // Text style / decoration
-    &.italic {
-        font-style: italic;
-    }
+  // Text style / decoration
+  &.italic {
+    font-style: italic;
+  }
 
-    &.underline {
-        @include decoration(underline);
-    }
+  &.underline {
+    @include decoration(underline);
+  }
 
-    &.bold {
-        @include font-weight(bold);
-    }
+  &.bold {
+    @include font-weight(bold);
+  }
 
-    &.decoration-none {
-        @include decoration(none);
-    }
+  &.decoration-none {
+    @include decoration(none);
+  }
 
-    &.bolder {
-        @include font-weight(bolder);
-    }
+  &.bolder {
+    @include font-weight(bolder);
+  }
 
-    &.light {
-        @include font-weight(100);
-    }
+  &.light {
+    @include font-weight(100);
+  }
 
-    //Text transform
-    &.lowercase {
-        @include text-transform(lowercase);
-    }
+  //Text transform
+  &.lowercase {
+    @include text-transform(lowercase);
+  }
 
-    &.uppercase {
-        @include text-transform(uppercase);
-    }
+  &.uppercase {
+    @include text-transform(uppercase);
+  }
 
-    &.capitalize {
-        @include text-transform(capitalize);
-    }
+  &.capitalize {
+    @include text-transform(capitalize);
+  }
 
-    // Text positioning
-    &.center {
-        @include text-align(center);
-    }
+  // Text positioning
+  &.center {
+    @include text-align(center);
+  }
 
-    &.right {
-        @include text-align(right);
-    }
+  &.right {
+    @include text-align(right);
+  }
 
-    &.left {
-        @include text-align(left);
-    }
+  &.left {
+    @include text-align(left);
+  }
 
-    // Text wrapping
-    &.text-wrap {
-        word-wrap: break-word;
-    }
+  // Text wrapping
+  &.text-wrap {
+    word-wrap: break-word;
+  }
 
-    &.text-break {
-        overflow-wrap: break-word;
-        word-break: break-word;
-    }
+  &.text-break {
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
 }

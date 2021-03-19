@@ -4,131 +4,119 @@
 // No border modifier allows the user to remove the border of a label.
 
 * {
-    font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
-.label{
+.label {
+  display: inline-block;
+  padding: 7px 12px;
 
-    display: inline-block;
-    padding: 7px 12px;
+  &.default {
+    border: 1px solid black;
+    background-color: $base-colour;
 
-    &.default{
-
-        border: 1px solid black;
-        background-color: $base-colour;
-
-        &.secondary{
-            padding: 3px  6px;
-        }
-
-
-        &.rounded{
-            @include border-radius(3px);
-        }
-
-        &.superrounded{
-            @include border-radius(6px);
-        }
-
-        &.pill{
-            @include border-radius(15px);
-        }
-
-        &.noborder{
-            border: none;
-        }
+    &.secondary {
+      padding: 3px 6px;
     }
 
-    &.primary{
-
-        border: 1px solid black;
-        background-color: rgb(41, 153, 245);
-
-        &.rounded{
-            @include border-radius(3px);
-        }
-
-        &.superrounded{
-            @include border-radius(6px);
-        }
-
-        &.pill{
-            @include border-radius(15px);
-        }
-
-        &.noborder{
-            border: none;
-        }
-
+    &.rounded {
+      @include border-radius(3px);
     }
 
-    &.success{
-
-        border: 1px solid black;
-        background-color: rgb(63, 204, 20);
-
-        &.rounded{
-            @include border-radius(3px);
-        }
-
-        &.superrounded{
-            @include border-radius(6px);
-        }
-
-        &.pill{
-            @include border-radius(15px);
-        }
-
-        &.noborder{
-            border: none;
-        }
-        
+    &.superrounded {
+      @include border-radius(6px);
     }
 
-    &.warning{
-
-        border: 1px solid black;
-        background-color: rgb(230, 144, 74);
-
-        &.rounded{
-            @include border-radius(3px);
-        }
-
-        &.superrounded{
-            @include border-radius(6px);
-        }
-
-        &.pill{
-            @include border-radius(15px);
-        }
-
-        &.noborder{
-            border: none;
-        }
-        
+    &.pill {
+      @include border-radius(15px);
     }
 
-    &.error{
+    &.noborder {
+      border: none;
+    }
+  }
 
-        border: 1px solid black;
-        background-color: rgb(212, 59, 59);
+  &.primary {
+    border: 1px solid black;
+    background-color: rgb(41, 153, 245);
 
-        &.rounded{
-            @include border-radius(3px);
-        }
-
-        &.superrounded{
-            @include border-radius(6px);
-        }
-
-        &.pill{
-            @include border-radius(15px);
-        }
-
-        &.noborder{
-            border: none;
-        }
-        
+    &.rounded {
+      @include border-radius(3px);
     }
 
+    &.superrounded {
+      @include border-radius(6px);
+    }
+
+    &.pill {
+      @include border-radius(15px);
+    }
+
+    &.noborder {
+      border: none;
+    }
+  }
+
+  &.success {
+    border: 1px solid black;
+    background-color: rgb(63, 204, 20);
+
+    &.rounded {
+      @include border-radius(3px);
+    }
+
+    &.superrounded {
+      @include border-radius(6px);
+    }
+
+    &.pill {
+      @include border-radius(15px);
+    }
+
+    &.noborder {
+      border: none;
+    }
+  }
+
+  &.warning {
+    border: 1px solid black;
+    background-color: rgb(230, 144, 74);
+
+    &.rounded {
+      @include border-radius(3px);
+    }
+
+    &.superrounded {
+      @include border-radius(6px);
+    }
+
+    &.pill {
+      @include border-radius(15px);
+    }
+
+    &.noborder {
+      border: none;
+    }
+  }
+
+  &.error {
+    border: 1px solid black;
+    background-color: rgb(212, 59, 59);
+
+    &.rounded {
+      @include border-radius(3px);
+    }
+
+    &.superrounded {
+      @include border-radius(6px);
+    }
+
+    &.pill {
+      @include border-radius(15px);
+    }
+
+    &.noborder {
+      border: none;
+    }
+  }
 }

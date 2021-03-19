@@ -1,12 +1,15 @@
 // This file contains the imports to link all files included in ambience.css. Target this file if you wish to compile the project.
 // Use 'sass --watch .\src\main.scss .\framework\ambience.css' to compile any changes saved.
 // Remove the --watch flag to compile only once 'sass .\src\main.scss .\framework\ambience.css'.
-// If your styles are not working ensure that you have added the .scss to the list below. Also ensure that any new files to be used as an import contains an _
-// at the start of the name. This tells SASS it will be used as an import.
 // Prettier format command 'npx prettier --write .' If it doesn't work contact LCordial
 
+// **IMPORTANT**
+
+// If your styles are not working ensure that you have added the .scss to the list below. Also ensure that any new files to be used as an import contains an _
+// at the start of the name. This tells SASS it will be used as an import.
+
 // External Dependecy
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
 
 // Utilities
 @import "utilities/variables";
@@ -14,16 +17,17 @@
 @import "utilities/functions";
 
 // Base
-@import 'base/typography';
+@import "base/typography";
+@import "base/colours";
 
 // Modules
-@import 'modules/buttons';
-@import 'modules/labels';
-@import 'modules/code';
-@import 'modules/quotes';
+@import "modules/buttons";
+@import "modules/labels";
+@import "modules/code";
+@import "modules/quotes";
+@import "modules/parallax";
 
 @import "base/typography";
 
 // Modules
 @import "modules/buttons";
-
