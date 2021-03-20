@@ -53,6 +53,8 @@ Our default branch is for development of Ambience.css. Previous versions of Ambi
 
 <p>
   <img src="https://img.shields.io/github/issues/Ambience-Studios/ambience.css">
+  <img src="https://img.shields.io/david/dev/Ambience-Studios/ambience.css">
+  <img src="https://img.shields.io/github/commit-activity/w/Ambience-Studios/ambience.css">
 </p>
 
 ## What's included
