@@ -3,6 +3,3 @@
 *.js      @LCordial @ERieger
 *.scss    @ERieger @LCordial
 
-dev/      @LCordial
-src/      @ERieger
-
