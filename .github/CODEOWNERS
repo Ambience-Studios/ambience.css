@@ -1,1 +1,4 @@
-@lcordial/main
+*.md      @LCordial
+*.css     @LCordial
+*.js      @LCordial
+*.scss    @ERieger
