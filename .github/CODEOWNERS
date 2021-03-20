@@ -1,4 +1,4 @@
 *.md      @LCordial
-*.css     @LCordial
-*.js      @LCordial
+*.css     @LCordial @ERieger
+*.js      @LCordial @ERieger
 *.scss    @ERieger
