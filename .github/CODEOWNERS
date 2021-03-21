@@ -1,5 +1,1 @@
-*.md      @LCordial
-*.css     @LCordial @ERieger
-*.js      @LCordial @ERieger
-*.scss    @ERieger @LCordial
-
+*         @LCordial @ERieger
