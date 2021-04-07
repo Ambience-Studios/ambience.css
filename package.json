@@ -15,7 +15,10 @@
   "directories": {
     "doc": "docs"
   },
-  "scripts": {},
+  "scripts": {
+    "sass": "sass --watch ./src/main.scss ./framework/ambience.css",
+    "prettier": "npx prettier --write ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ambience-Studios/ambience.css.git"
