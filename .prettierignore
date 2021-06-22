@@ -3,3 +3,5 @@
 /.github
 
 /CHANGELOG.md
+
+/dev/minify.js
